@@ -3,6 +3,8 @@
 
 基于强化学习和自然语言处理开发新的AI算法和环境生成算法。
 
+使得AI代理能够通过新算法在算法随机生成的3D环境中达成NLP处理过的随机生成的任务并通过RL和DeepRL实现模型训练。
+
 使用Python、pytorch、Vizdoom、Navdoom、Slade3、DeepRL-Grounding和一系列相关的lib实现。
 
 由于代理在3D环境中训练消耗的时间过长，单GPU算力不够的关系，只实现了基本功能并没有对项目进行优化和对模型进行进一步的细致性能评估，导致毕设论文缺少了关键的evaluation部分。
