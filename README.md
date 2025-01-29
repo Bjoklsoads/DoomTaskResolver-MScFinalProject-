@@ -1,4 +1,4 @@
-# DoomTaskResolver(MSc Final Project)
+# DoomTaskResolver-Ver0.1(MSc Final Project)
 ###### 项目介绍
 
 基于强化学习和自然语言处理开发新的AI算法和环境生成算法。
@@ -23,19 +23,20 @@
 ### 生成地图指示器和实际可用的wad地图
 #### 请使用以下命令生成地图指示器：
 ```python
-python maze.py {'prefix'}
+python maze.py {prefix}
 ```
 这将会在generated map indicator文件夹下生成maze_'prefix'_MAP01至maze_'prefix'_MAP10共10张地图生成用的示意图。
 
 
 #### 请使用以下命令生成训练与测试地图：
 ```python
-python wad.py {'prefix'} {'your map's name'}
+python wad.py {prefix} {'your map`s name}
 ```
 这将会调用generated map indicator文件夹中的示意图，并将其整合进同一个WAD中，生成一个 'your map's name'.wad 文件。
 
 该WAD中包含了所有根据示意图生成的DOOM引擎可用的wad地图，共1-10关。
 
+然后将wad地图手动移至DeepRL-Grounding-master文件夹的maps文件夹下。
 
 # AI训练部分/AI Training Part
 ### 使用对应软件确保测试环境正常并使用对应指令开始正式训练过程
