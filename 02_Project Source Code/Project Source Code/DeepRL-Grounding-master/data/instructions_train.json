@@ -1,0 +1,99 @@
+[
+    {
+        "instruction": "Go to the Shotgun",
+        "targets": [
+            "Shotgun"
+        ],
+        "description": "Shotgun"
+    },
+    {
+        "instruction": "Go to the Rocket Launcher",
+        "targets": [
+            "Rocket Launcher"
+        ],
+        "description": "Rocket Launcher"
+    },
+    {
+        "instruction": "Go to the Plasma Gun",
+        "targets": [
+            "Plasma Gun"
+        ],
+        "description": "Plasma Gun"
+    },
+    {
+        "instruction": "Go to the Chainsaw",
+        "targets": [
+            "Chainsaw"
+        ],
+        "description": "Chainsaw"
+    },
+    {
+        "instruction": "Go to the BFG9000",
+        "targets": [
+            "BFG9000"
+        ],
+        "description": "BFG9000"
+    },
+    {
+        "instruction": "Go to the Blue Armor",
+        "targets": [
+            "Blue Armor"
+        ],
+        "description": "Blue Armor"
+    },
+    {
+        "instruction": "Go to the Ammo Clip",
+        "targets": [
+            "Ammo Clip"
+        ],
+        "description": "Ammo Clip"
+    },
+    {
+        "instruction": "Go to the Rocket",
+        "targets": [
+            "Rocket"
+        ],
+        "description": "Rocket"
+    },
+    {
+        "instruction": "Go to the Red Keycard",
+        "targets": [
+            "Red Keycard"
+        ],
+        "description": "Red Keycard"
+    },
+    {
+        "instruction": "Go to the Yellow Keycard",
+        "targets": [
+            "Yellow Keycard"
+        ],
+        "description": "Yellow Keycard"
+    },
+    {
+        "instruction": "Go to the Blue Keycard",
+        "targets": [
+            "Blue Keycard"
+        ],
+        "description": "Blue Keycard"
+    },
+    {
+        "instruction": "Go to the Blue Skull Keycard",
+        "targets": [
+            "Blue Skull Keycard"
+        ],
+        "description": "Blue Skull Keycard"
+    },
+    {
+        "instruction": "Go to the Yellow Skull Keycard",
+        "targets": [
+            "Yellow Skull Keycard"
+        ],
+        "description": "Yellow Skull Keycard"
+    },
+    {
+        "instruction": "Go to the RED Skull Keycard",
+        "targets": [
+            "RED Skull Keycard"
+        ],
+        "description": "RED Skull Keycard"
+    }]
