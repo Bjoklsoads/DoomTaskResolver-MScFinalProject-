@@ -77,10 +77,9 @@ env_test.py首先会检测DeepRL-Grounding-master文件夹中是否有上次训�
 
 
 
-
-
+---
 <details>
-  <summary>自省与废话</summary>
+ <summary>自省与废话</summary>
 
   ###### 没能彻底完成该项目也算是一年硕的遗憾，但至少学到了非常多的相关知识，值得。
 
